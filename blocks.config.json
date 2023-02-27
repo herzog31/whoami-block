@@ -1,9 +1,9 @@
 [
   {
     "type": "file",
-    "id": "file-block",
-    "title": "Example File Block",
-    "description": "A basic file block",
+    "id": "whoami-block",
+    "title": "Who Am I? Block",
+    "description": "Introduce yourself on your GitHub profile",
     "entry": "blocks/example-file-block/index.tsx",
     "matches": ["*"],
     "example_path": "https://github.com/facebook/react/blob/main/packages/react-dom/index.js"
